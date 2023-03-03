@@ -14,7 +14,7 @@ As an aircraft controller in the Brazilian Air Force, one of the greatest instit
 
 **Links:**
 * [Blog](https://helenlevox.blogspot.com/)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/helenlevox)
 * [Medium](https://medium.com/@helenlevox)
 
 
