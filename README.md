@@ -7,7 +7,7 @@ Meu portfóliode Data Science
 </p>
 
 # Helen Feitosa Bezerra Laurindo 
-<sub>*Aircfraft Controller*</sub>
+<sub>*Aircfraft Controller*Data Science</sub>
 
 As an aircraft controller in the Brazilian Air Force, one of the greatest institutions relied on and prestige, I have daily experience with conflict resolution, team management, and high concentration capability. These skills allow me, as a Data Scientist, to give detailed results, analytically thinking, and focus on offering effective solutions. 
 
